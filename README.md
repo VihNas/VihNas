@@ -1,10 +1,10 @@
-# VihNas
 <h3 align="center">Full Stack Developer</h3>
-<p>
 
-     My name is Vitória Nascimento, and I am passionate about technology and software development.
-     I am currently studying and developing projects focused on web applications, automation, and building practical solutions. I enjoy learning new technologies, solving problems, and turning ideas into functional applications.
-</p>
+My name is Vitória Nascimento, and I am passionate about technology and software development.
+
+I am currently studying and developing projects focused on web applications, automation, and building practical solutions. I enjoy learning new technologies, solving problems, and turning ideas into functional applications.
+
+
 <p align="center">
     <a href="https://github.com/VihNas?tab=repositories&sort=stargazers">
         <img 
