@@ -8,15 +8,15 @@ I am currently studying and developing projects focused on web applications, aut
 <p align="center">
     <a href="https://github.com/VihNas?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Stargazers" 
+            title="Stargazers GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/VihNas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/VihNas?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/VihNas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
