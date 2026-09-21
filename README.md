@@ -12,6 +12,6 @@ I am currently studying and developing projects focused on web applications, aut
 <h3> </h3>
 <div align="center">
   <h3> Languages & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,postgresql,kotlin" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,pycharm,docker,androidstudio" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysql,postgresql,kotlin" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,pycharm,intellij,docker,androidstudio" /><br>
 </div>
