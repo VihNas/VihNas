@@ -15,3 +15,9 @@ I am currently studying and developing projects focused on web applications, aut
   <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysql,postgresql,kotlin" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,github,git,pycharm,intellijidea,docker,androidstudio" /><br>
 </div>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VihNas/VihNas/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VihNas/VihNas/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VihNas/VihNas/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
